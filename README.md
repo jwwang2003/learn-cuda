@@ -36,6 +36,18 @@ echo "CuptiUseRawGpuTimestamps=false" > "/home/wjw/.config/NVIDIA Corporation/ns
 
 `nsys` profiler should work normally now.
 
+## Installation & learning resources
+
+- [CUDA on WSL](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#getting-started-with-cuda-on-wsl-2)
+- [Getting started with CUDA CPP](https://developer.nvidia.com/how-to-cuda-c-cpp)
+- https://developer.nvidia.com/blog/new-dli-online-courses-for-hands-on-training-in-accelerated-computing/
+- [CUDA Samples](https://github.com/NVIDIA/cuda-samples/tree/master)
+- [Nvidia Toolkit](https://developer.nvidia.com/cuda-toolkit)
+- [Pytorch CUDA Extension Example](https://docs.pytorch.org/tutorials/advanced/cpp_extension.html)
+- https://www.geeksforgeeks.org/machine-learning/how-to-set-up-and-run-cuda-operations-in-pytorch/
+
 ## First: Hello, world! \(Cuda version\)
 
 - [An introduction to CUDA](https://developer.nvidia.com/blog/even-easier-introduction-cuda/)
+
+
